@@ -44,7 +44,7 @@
 }
 
 .btn-primary{
-    border-radius: 8px;
+    border-radius: 4px;
     background: #E55473;
     border:none;
     padding:10px 25px;
@@ -79,3 +79,54 @@ header{
     margin-top:10px;
 }
 
+.main-3rd-img{
+    width: 200px;
+    height: 220px;
+
+}
+
+.main-3rd-container{
+    display:flex;
+    width:70%;
+    margin:auto;
+    background: rgba(229, 84, 115, 0.05);
+    margin-top:50px;
+    padding:50px 150px;
+    align-items: center;
+    gap:70px;
+}
+
+.main-3rd-container p {
+        width:350px;
+        font-size: 12px;
+        margin:20px 0px;
+}
+
+.span{
+    color: #E55473;
+}
+
+.main-3rd-left{
+    text-align: center;
+}
+
+.main-4th-title{
+    text-align: center;
+    margin-top:50px;
+    margin-bottom: 30px;
+}
+
+.main-4th-title p{
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.flower-container{
+    display: flex;
+    gap:10px;
+    justify-content: center;
+}
+
+.flower-container img {
+    width: 18%;
+}
