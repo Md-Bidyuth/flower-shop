@@ -50,3 +50,32 @@
     padding:10px 25px;
     color:white;
 }
+
+
+header{
+    margin-bottom: 100px;
+}
+.main-section2-container{
+    display:flex;
+    justify-content: space-around;
+    width:60%;
+    margin:auto;
+    background: rgba(39, 39, 39, 0.05);
+    gap: 15px;
+    padding: 50px 100px;
+    
+}
+
+.main-info{
+    text-align: center;
+}
+
+.main-info img{
+    width:45px;
+}
+
+.main-info p{
+    font-size: 14px;
+    margin-top:10px;
+}
+
