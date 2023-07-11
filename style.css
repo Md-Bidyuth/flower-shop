@@ -130,3 +130,51 @@ header{
 .flower-container img {
     width: 18%;
 }
+
+.last-title{
+    text-align: center;
+    background-image: url('./Flower Asset/Rectangle\ 9.png');
+    margin-top: 50px;
+    background-size: 1140px 282px;
+    background-repeat: no-repeat;
+    
+
+}
+
+.last-title h2{
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+
+.input{
+    padding-bottom: 100px;
+}
+
+.input input{
+    width:400px;
+    padding:10px 10px;
+    border:none;
+    
+}
+
+.last-title p{
+    padding-bottom:10px;
+}
+
+
+.input{
+    margin-bottom: 100px;
+}
+
+.footer-container h2{
+    color:white;
+    /* background-color:  #111010; */
+
+
+}
+
+footer{
+    background-color: #111010;
+    color:white;
+    text-align: center;
+}
