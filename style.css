@@ -135,11 +135,13 @@ header{
     width: 18%;
 }
 
+
 .last-title{
+    width:100%;
     text-align: center;
     background-image: url('./Flower Asset/Rectangle\ 9.png');
     margin-top: 50px;
-    background-size: 1140px 282px;
+    background-size: 1240px 282px;
     background-repeat: no-repeat;
     
 
