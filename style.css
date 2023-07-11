@@ -137,7 +137,8 @@ header{
 
 
 .last-title{
-    width:100%;
+    width:75%;
+    margin:auto;
     text-align: center;
     background-image: url('./Flower Asset/Rectangle\ 9.png');
     margin-top: 50px;
